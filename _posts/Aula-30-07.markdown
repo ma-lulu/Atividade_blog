@@ -1,0 +1,13 @@
+ciclo de vida
+
+> → versões
+> → configurações
+
+→ evitar perdas
+→ otimizar o tempo
+
+Itens de configuração(1°pt):
+
+- Documentação
+- Build
+- Deploy
