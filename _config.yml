@@ -23,7 +23,7 @@ email: mapereira@edu.unifil.br
 description: >- # this means to ignore newlines until "baseurl:"
   Site criado para a disciplina de Gerência de configuração.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marialluiza.github.io/" 
 twitter_username: 
 github_username: ma-lulu
 
