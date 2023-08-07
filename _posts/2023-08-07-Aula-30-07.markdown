@@ -1,6 +1,6 @@
 ---
 layout: post
-name: "Aula 30/07"
+name: "Class july 30"
 date:   2023-08-07 12:39:00 -0300
 categories: inicio
 ---
