@@ -1,15 +1,13 @@
 ---
 layout: post
+name: "Aula 30/07"
 date:   2023-08-07 12:39:00 -0300
 categories: inicio
 ---
-## Título
-# Aqui meu subtítulo 
 ciclo de vida
 
 → versões
 → configurações
-
 → evitar perdas
 → otimizar o tempo
 
