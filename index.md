@@ -1,13 +1,13 @@
 ---
-title: Maria Luiza G. Pereira
+title: REMIND ME
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description:
+intro_image: "images/illustrations/parabens.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# REMIND ME
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Nunca deixe o carinho passar despercebido com Remind Me.

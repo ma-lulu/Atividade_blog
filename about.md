@@ -1,23 +1,25 @@
 ---
-title: About
+title: About 
 layout: page
 description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+# Remind Me
 
-Financial accounting and financial reporting are often used as synonyms.
+O Remind Me será um app 
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+O tema escolhido para o projeto de extensão foi um app de lembretes de aniversários afinal, quem é que nunca esqueceu de parabenizar uma pessoa no dia do aniversário dela e recebeu um “sermão” por isso não é mesmo?! Pensando nisso, nos esquecidos de plantão ou naqueles que andam sempre com muita coisa na cabeça, tenho como objetivo desenvolver um aplicativo que auxilie essas pessoas com lembretes para essas datas especiais. 
+
+
+
+O ato de lembrar e celebrar aniversários é uma forma significativa de mostrar amor e consideração às pessoas importantes em nossas vidas, no entanto, as demandas modernas muitas vezes sobrecarregam nossa memória, tornando difícil manter o controle de todas as datas de aniversário, então esse aplicativo estará abordando uma necessidade social relevante, melhorando as relações interpessoais e oferecendo uma solução prática para um problema comum. 
+
+
+
+Portanto, apresento aqui o Remind me, que surgiu para suprir o projeto de extensão curricular e tem como objetivo acrescentar na vivência de quem se importa em manter boas relações com os colegas, família e amigos, lembrando de suas datas de aniversário e não as deixando passar batido.
 
 ## Relevance
 
@@ -27,24 +29,6 @@ Relevance is the capacity of the financial information to influence the decision
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
 
 ---
 
@@ -68,9 +52,6 @@ The statement of cash flows considers the inputs and outputs in concrete cash wi
 
 > **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
 
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
 
 - **fixed assets**
   - property
@@ -83,5 +64,3 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - pending
     - international
 - goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.

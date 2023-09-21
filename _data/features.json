@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Armazenamento",
+    "description": "Remind Me é um aplicativo com baixo consumo de armazenamento",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/satisfeito1.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Sem complicação!",
+    "description": "Com uma interface intuitiva Remind Me oferece aos usuários uma fácil utilização do app.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/facil1.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Lembretes",
+    "description": "Remind Me te lembrará de felicitar aquela pessoa querida com lembretes personalizados.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/lembrete1.svg",
       "width": 80,
       "height": 80
     }
